@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#-Deployment">Deployment</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-Projeto">Projeto</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🌐 Deployment
@@ -13,7 +13,7 @@ Você pode visualizar o deploy do projeto através desse link:
 
 <p align="center">
   <h3 align="center">Prévia</h3>
-  <img alt="Desing do Projeto" src=".github/preview.png" width="100%">
+  <img alt="Desing do Projeto" src=".github/Preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
